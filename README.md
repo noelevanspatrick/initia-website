@@ -1,2 +1,2 @@
-# initia-website
-official INITIA website
+Cosmos Atom Network 
+STAKE ATOM
